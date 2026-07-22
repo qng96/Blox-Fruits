@@ -2214,8 +2214,8 @@ L_1_[16] = (loadstring(game:HttpGet(L_1_[2]({
 }))))()
 L_1_[38] = L_1_[16]:MakeWindow({
 	["Title"] = "Gravity Hub";
-	["SubTitle"] = "by realtboy",
-	["SaveFolder"] = "redz library V5.json"
+	["SubTitle"] = "by drear4uu",
+	["SaveFolder"] = "gravity V1.json"
 })
 L_1_[87] = Instance["new"]("ScreenGui")
 L_1_[87]["Name"] = "ControlGUI"
@@ -2388,16 +2388,16 @@ L_1_[93]["Info"]:AddSection("Information")
 L_1_[93]["Info"]:AddDiscordInvite({
 	["Name"] = "Gravity Hub",
 	["Description"] = L_1_[2]({
-		"Release Date [12/10/";
-		"2025]"
+		"Release Date [22/07/";
+		"2026]"
 	}),
 	["Logo"] = L_1_[2]({
 		"rbxassetid://7367578",
 		"7844710"
 	}),
 	["Invite"] = L_1_[2]({
-		"https://discord.gg/d",
-		"vqDj9tum4"
+		"https://qng96.github.io/",
+		"Gravity"
 	})
 })
 L_1_[93]["Info"]:AddSection("Status Server")
